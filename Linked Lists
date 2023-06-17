@@ -1,0 +1,19 @@
+# Big O Notation and Linked Lists
+
+## Summary of Big O Notation:
+Big O notation is used to describe the efficiency of an algorithm or function. This efficiency is evaluated based on two factors:
+Running time or time efficiency: It represents the amount of time a function needs to complete.
+Memory space or space efficiency: It indicates the amount of memory resources a function uses to store data.
+
+Big O notation is employed to describe the worst-case efficiency an algorithm can have in performing its job.
+
+## Summary of Linked Lists:
+A linked list is a data structure used to store and organize a collection of nodes. Each node contains a "value" and a "pointer" that refers to the next node in the list. The first node in the linked list is called the head, and every node except the last one is linked to the next node. The final node in the list points to null.
+
+Linked lists are preferred for their dynamic and flexible nature in organizing data, making them very useful for deletion and addition operations.
+
+## Topics to Explore Further:
+I would like to learn more about data structures and algorithms.
+
+## Importance of this Topic to the Current Module:
+This topic is crucial as it relates to the fundamental concepts of computer science and plays a vital role in problem-solving.
