@@ -1,4 +1,4 @@
-##Role-Based Access Control (RBAC)
+#Role-Based Access Control (RBAC)
 
 ### What is Role-Based Access Control (RBAC) and why is it important?
 RBAC is a security approach that limits system access to authorized users and implements access control policies. It is important because it helps manage user privileges, simplify administration, and enhance security by ensuring users have access only to the resources needed for their roles.
