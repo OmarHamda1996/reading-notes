@@ -28,6 +28,4 @@ A queue is used when we want to process elements in First In First Out order. It
 
 To use a queue data structure, you can use an array or linked list. The array implementation is simple and easy to implement but has a fixed size. The linked list implementation is more flexible and dynamic but requires more memory and overhead.
 
-## Other Types of Data Structures
 
-If you are interested in learning about other types of data structures, feel free to explore different data structures.
